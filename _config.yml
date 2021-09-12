@@ -8,7 +8,7 @@ disclaimer:
 keywords:    "jekyll, testing"
 navbarlinks:
 - navbar:    "Home"
-  link:      "/"
+  link:      "https://ferdinandamos.github.io/os212/"
 - navbar:    "Links"
   link:      "/LINKS/"
 - navbar:    "TarBall"

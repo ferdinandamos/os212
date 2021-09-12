@@ -13,9 +13,9 @@ I am {{ site.author }}, {{ site.address }}
 <br>
 ## Table Example
 
-| [HOME]({{ site.baseurl }}/) | [LISTINGS]({{ site.baseurl }}/000.html) | [LINKS]({{ site.baseurl }}/LINKS/) |
-| [TIPS]({{ site.baseurl }}/TIPS/) | [TARBALL]({{ site.baseurl }}/template.tar.bz2) |
-| [GitHub]({{ site.urlgithub }}) | [ABOUT]({{ site.baseurl }}/ABOUT/)	|
+| [HOME](/) | [LISTINGS]({{ site.baseurl }}/000.html) | [LINKS]({{ site.baseurl }}/LINKS/) |
+| [TIPS]({{ site.baseurl }}/TIPS/) | [TARBALL](https://os.vlsm.org/Log/ferdinandamos.tar.bz2.txt) |
+| [GitHub](https://github.com/ferdinandamos/os212/) | [ABOUT]({{ site.baseurl }}/ABOUT/)	|
 
 <br>
 Chkuaakkzz!

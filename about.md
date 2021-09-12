@@ -4,27 +4,13 @@ permalink: /ABOUT/
 
 # About
 
-This is a GitHub Page template on GitHub.
-Fill free to clone/fork/hijack/whatever it!
+Nama Saya Ferdinand Amos.. itulah chkuakkzz!
+Orang biasanya manggil saya Amos aja atau bisa mos gituu atau moy bebas dah.
+Segitu dulu kapan kapan diupdate.
 
 <br>
-# More Information
 
-<ul><li>
-{% for ii in site.navbarlinks %}
-  {% if ii.navbar == "GitHub Page" %}
-    <a href="{{ ii.link | relative_url }}">{{ ii.navbar }}</a>
-  {% endif %}
-{% endfor %}
-</li><li>
-{% for ii in site.navbarlinks %}
-  {% if ii.navbar == "GitHub" %}
-    <a href="{{ ii.link | relative_url }}">{{ ii.navbar }}</a>
-  {% endif %}
-{% endfor %}
-</li></ul><br>
-
-# Qapla!
+# Chkuaakkzz!
 
 
 

@@ -4,18 +4,14 @@ permalink: /LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, tempor hokben lorem.
+1. [Log](https://github.com/ferdinandamos/os212/blob/master/TXT/mylog.txt)<br>
+Isinya ya log saya.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [Repo](https://github.com/ferdinandamos/os212)<br>
+Isinya ya Repository saya.
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+3. [Page](https://ferdinandamos.github.io/os212/)<br>
+Isinya ya page saya.
 
+4. [Tarball](https://os.vlsm.org/Log/ferdinandamos.tar.bz2.txt)<br>
+Isinya ya tarball saya.

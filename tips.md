@@ -4,18 +4,12 @@ permalink: /TIPS/
 
 # TIPS
 
-4. [Four](https://en.wikipedia.org/wiki/4)<br>
-Powder donut cheesecake wafer.
-I love sugar plum brownie tart apple pie macaroon.
-Donut wafer dragée pudding.
+1. [Satu](https://www.alodokter.com/5-kondisi-yang-bisa-dialami-jika-kurang-tidur#:~:text=Inilah%20sebabnya%2C%20orang%20yang%20kurang,gangguan%20suasana%20hati%20dan%20kecemasan.)<br>
+Jangan kurang tidur.
 
-5. [Five](https://en.wikipedia.org/wiki/5)<br>
-Soufflé I love gingerbread marshmallow cake I love applicake.
-Sugar plum I love jelly beans powder jelly beans.
-Ice cream ice cream cupcake liquorice I love.
+2. [Dua](https://health.kompas.com/read/2020/11/18/101000568/12-akibat-kurang-minum-air-putih-yang-tak-boleh-disepelekan?page=all)<br>
+Jangan kurang minum air putih.
 
-6. [Six](https://en.wikipedia.org/wiki/6)<br>
-Pastry sweet roll applicake bear claw donut sweet roll.
-Chocolate carrot cake I love sesame snaps.
-Pudding pudding chocolate cake croissant donut pastry pie cupcake cookie.
+3. [Tiga](https://tugujatim.id/5-manfaat-berdoa-sebelum-memulai-aktivitas/)<br>
+Jangan lupa berdoa sebelum memulai aktivitas.
 

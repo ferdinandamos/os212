@@ -1,8 +1,8 @@
-version:     "0018b--03-Aug-2021"
+version:     "001--12-Sept-2021"
 copyright:   "2021-2021"
 description:
   This is a
-  GitHub Page Template
+  Amos GitHub Page
 disclaimer:
   I have spoken.
 keywords:    "jekyll, testing"
@@ -11,24 +11,20 @@ navbarlinks:
   link:      "/"
 - navbar:    "Links"
   link:      "/LINKS/"
-- navbar:    "Tips"
-  link:      "/TIPS/"
-- navbar:    "Zip File"
-  link:      "/template.zip"
 - navbar:    "TarBall"
   link:      "/template.tar.bz2"
 - navbar:    "GitHub"
-  link:      "https://github.com/ThisIsHowMeDoIt/template/"
+  link:      "https://github.com/ferdinandamos/"
 - navbar:    "Listing"
   link:      "/000.html"
 - navbar:    "About"
   link:      "/ABOUT/"
 - navbar:    "GitHub Page"
-  link:      "https://template.vlsm.org/"
-title:       "GitHub Page Template"
+  link:      "https://ferdinandamos.github.io/os212/"
+title:       "Amos GitHub Page"
 lang:        "en-US"
-author:      "J. Walker"
-address:     "Box 7, Mawitaan, Bangalla."
+author:      "Ferdinand Amos P."
+address:     "Depok, Jawa Barat."
 sitemap:     "true"
 markdown:    "kramdown"
 defaults:

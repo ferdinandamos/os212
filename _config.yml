@@ -12,7 +12,7 @@ navbarlinks:
 - navbar:    "Links"
   link:      "/LINKS/"
 - navbar:    "TarBall"
-  link:      "/template.tar.bz2"
+  link:      "https://os.vlsm.org/Log/ferdinandamos.tar.bz2.txt"
 - navbar:    "GitHub"
   link:      "https://github.com/ferdinandamos/"
 - navbar:    "Listing"

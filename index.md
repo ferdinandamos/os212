@@ -10,7 +10,7 @@ Saya {{ site.author }}, saya tinggal di {{ site.address }}.
 
 | [HOME](/) | [LISTINGS]({{ site.baseurl }}/000.html) | [LINKS]({{ site.baseurl }}/LINKS/) |
 | [TIPS]({{ site.baseurl }}/TIPS/) | [TARBALL](https://os.vlsm.org/Log/ferdinandamos.tar.bz2.txt) |
-| [GitHub](https://github.com/ferdinandamos/os212/) | [ABOUT]({{ site.baseurl }}/ABOUT/)	|
+| [GitHub](https://github.com/ferdinandamos/) | [ABOUT]({{ site.baseurl }}/ABOUT/)	|
 
 <br>
 Chkuaakkzz!

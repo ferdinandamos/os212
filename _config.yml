@@ -1,4 +1,4 @@
-version:     "001--12-Sept-2021"
+version:     "002--19-Sept-2021"
 copyright:   "2021-2021"
 description:
   This is a
@@ -15,12 +15,8 @@ navbarlinks:
   link:      "https://os.vlsm.org/Log/ferdinandamos.tar.bz2.txt"
 - navbar:    "GitHub"
   link:      "https://github.com/ferdinandamos/"
-- navbar:    "Listing"
-  link:      "/000.html"
 - navbar:    "About"
   link:      "/ABOUT/"
-- navbar:    "GitHub Page"
-  link:      "https://ferdinandamos.github.io/os212/"
 title:       "Amos GitHub Page"
 lang:        "en-US"
 author:      "Ferdinand Amos P."

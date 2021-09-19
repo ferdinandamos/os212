@@ -18,11 +18,29 @@ Isinya ya tarball saya.
 
 # TIPS
  
-1. [Satu](https://www.alodokter.com/5-kondisi-yang-bisa-dialami-jika-kurang-tidur#:~:text=Inilah%20sebabnya%2C%20orang%20yang%20kurang,gangguan%20suasana%20hati%20dan%20kecemasan.)<br>
+1. [Pentingnya waktu cukup untuk tidur](https://www.alodokter.com/5-kondisi-yang-bisa-dialami-jika-kurang-tidur#:~:text=Inilah%20sebabnya%2C%20orang%20yang%20kurang,gangguan%20suasana%20hati%20dan%20kecemasan.)<br>
 Jangan kurang tidur.
 
-2. [Dua](https://health.kompas.com/read/2020/11/18/101000568/12-akibat-kurang-minum-air-putih-yang-tak-boleh-disepelekan?page=all)<br>
+2. [Pentingnya minum air putih cukup](https://health.kompas.com/read/2020/11/18/101000568/12-akibat-kurang-minum-air-putih-yang-tak-boleh-disepelekan?page=all)<br>
 Jangan kurang minum air putih.
 
-3. [Tiga](https://tugujatim.id/5-manfaat-berdoa-sebelum-memulai-aktivitas/)<br>
+3. [Selalu berdoa ketika ingin beraktivitas](https://tugujatim.id/5-manfaat-berdoa-sebelum-memulai-aktivitas/)<br>
 Jangan lupa berdoa sebelum memulai aktivitas.
+
+4. [Basic linux command](https://linoxide.com/essential-linux-basic-commands/)<br>
+Beberapa command yang biasa digunakan dalam linux.
+
+5. [Basic vi command](https://www.cs.colostate.edu/helpdocs/vi.html)<br>
+Beberapa vi command yang biasa digunakan pada default editor yang digunakan UNIX operating system, yaitu **vi**rtual editor.
+
+6. [Learn REGEX](https://www.youtube.com/watch?v=bgBWp9EIlMM)<br>
+Video singkat belajar REGEX.
+
+7. [Essential learning AWK for linux user](https://www.youtube.com/watch?v=9YOZmI-zWok)<br>
+Video singkat tentang keuntungan mempelajari AWK dala linux.
+
+8. [Cyber Security Introduction](https://www.youtube.com/watch?v=rcDO8km6R6c)<br>
+Video yang tidak singkat tentang pengenalan cyber security.
+
+9. [Employee Security Policy](https://www.youtube.com/watch?v=CivG_2UqKMg)<br>
+Video yang tidak singkat tentang kebijakan kebijakan dalam security.

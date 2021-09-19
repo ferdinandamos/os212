@@ -16,6 +16,9 @@ Isinya ya page saya.
 4. [Tarball](https://os.vlsm.org/Log/ferdinandamos.tar.bz2.txt)<br>
 Isinya ya tarball saya.
 
+5. [Slides]({{ site.baseurl }}/SLIDES/)<br>
+Isinya beberapa slides yang sudah saya pelajari.
+
 # TIPS
  
 1. [Pentingnya waktu cukup untuk tidur](https://www.alodokter.com/5-kondisi-yang-bisa-dialami-jika-kurang-tidur#:~:text=Inilah%20sebabnya%2C%20orang%20yang%20kurang,gangguan%20suasana%20hati%20dan%20kecemasan.)<br>

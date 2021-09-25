@@ -9,3 +9,5 @@ permalink: /SLIDES/
 2. [Week 1](https://os.vlsm.org/Slides/os01.pdf)<br>
 
 3. [Week 2](https://os.vlsm.org/Slides/os02.pdf)<br>
+
+4. [Week 3](https://os.vlsm.org/Slides/os03.pdf)<br>

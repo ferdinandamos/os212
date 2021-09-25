@@ -47,3 +47,6 @@ Video yang tidak singkat tentang pengenalan cyber security.
 
 9. [Employee Security Policy](https://www.youtube.com/watch?v=CivG_2UqKMg)<br>
 Video yang tidak singkat tentang kebijakan kebijakan dalam security.
+
+10. [PDF Linux Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)<br>
+Pdf yang berisi tentang file system hierarchy.

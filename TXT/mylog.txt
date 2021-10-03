@@ -29,3 +29,11 @@ ZCZC  W03  30 L04  GitHub Pages related
 ZCZC  W03  20 L05  Quiz related
 ZCZC  W03  10 L06  GSGS related
 ZCZC  W03  180 L09  Assignment week 03
+ZCZC  W04  45 L01  SCELE/Discord related
+ZCZC  W04  100 L02  ZOOM meetings synchronous section
+ZCZC  W04  40 L02  ZOOM meetings QnA
+ZCZC  W04  25 L03  Github related
+ZCZC  W04  10 L04  GitHub Pages related
+ZCZC  W04  20 L05  Quiz related
+ZCZC  W04  15 L06  GSGS related
+ZCZC  W04  180 L09  Assignment week 04

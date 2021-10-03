@@ -47,3 +47,6 @@ Video yang tidak singkat tentang kebijakan kebijakan dalam security.
 
 10. [PDF Linux Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)<br>
 Pdf yang berisi tentang file system hierarchy.
+
+11. [Youtube Addressing, Shared Lib, & Pointer](https://www.youtube.com/watch?v=aQgyZGd1MhY)<br>
+Video tentang Addressing, Shared Lib, dan Pointer.

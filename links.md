@@ -50,3 +50,6 @@ Pdf yang berisi tentang file system hierarchy.
 
 11. [Youtube Addressing, Shared Lib, & Pointer](https://www.youtube.com/watch?v=aQgyZGd1MhY)<br>
 Video tentang Addressing, Shared Lib, dan Pointer.
+
+12. [TEST how much MINIMUM RAM is needed to run your DEBIAN GUEST](https://osp4diss.vlsm.org/W05-01.html)<br>
+Langkah-langkah untuk mengetest berapa ram minimum yang dibutuhkan untuk run debian guest kita.

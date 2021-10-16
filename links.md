@@ -52,11 +52,7 @@ Pdf yang berisi tentang file system hierarchy.
 Video tentang Addressing, Shared Lib, dan Pointer.
 
 12. [TEST how much MINIMUM RAM is needed to run your DEBIAN GUEST](https://osp4diss.vlsm.org/W05-01.html)<br>
-<<<<<<< HEAD
-Langkah-langkah untuk mengetest berapa ram minimum yang dibutuhkan untuk run debian guest kita.
-=======
 Langkah-langkah untuk mengetest berapa ram minimum yang dibutuhkan untuk run debian guest kita.
 
 13. [Process and Concurrency 1](https://www.youtube.com/watch?v=St9GHFVhxAw)[Process and Concurrency 2](https://www.youtube.com/watch?v=zBepedEr4H0)<br>
 Video tentang Process and Concurrency (Fork)
->>>>>>> 6d97faf (os212 ferdinandamos TXT)

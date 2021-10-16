@@ -10,12 +10,7 @@ ZCZC W04 indiradr
 ZCZC W04 iqbalasrif
 ZCZC W05 kanziebub
 ZCZC W05 jeromeez
-<<<<<<< HEAD
-ZCZC W05 johanesrakatn
-=======
 ZCZC W05 johanesrakatn
 ZCZC W06 MarcellinoCO
 ZCZC W06 margarethastellaa
 ZCZC W06 lkram1
-
->>>>>>> 6d97faf (os212 ferdinandamos TXT)

@@ -44,4 +44,15 @@ ZCZC  W05  25 L03  Github related
 ZCZC  W05  10 L04  GitHub Pages related
 ZCZC  W05  20 L05  Quiz related
 ZCZC  W05  30 L06  GSGS related
+<<<<<<< HEAD
 ZCZC  W05  300 L09  Assignment week 05
+=======
+ZCZC  W05  300 L09  Assignment week 05
+ZCZC  W06  40 L01  SCELE/Discord related
+ZCZC  W06  120 L02  ZOOM meetings synchronous section
+ZCZC  W06  15 L03  Github related
+ZCZC  W06  10 L04  GitHub Pages related
+ZCZC  W06  20 L05  Quiz related
+ZCZC  W06  45 L06  GSGS related
+ZCZC  W06  360 L09  Assignment week 06
+>>>>>>> 6d97faf (os212 ferdinandamos TXT)

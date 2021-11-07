@@ -56,3 +56,18 @@ Langkah-langkah untuk mengetest berapa ram minimum yang dibutuhkan untuk run deb
 
 13. [Process and Concurrency 1](https://www.youtube.com/watch?v=St9GHFVhxAw) & [Process and Concurrency 2](https://www.youtube.com/watch?v=zBepedEr4H0)<br>
 Video tentang Process and Concurrency (Fork)
+
+14. [Video Threads part 1 (Theory)](https://www.youtube.com/watch?v=PKq18t_tH6I&list=PLwaskZn3rUGs-qFoOrMM3cfvH57giC0MJ&index=4)<br>
+Video penjelasan teori tentang Materi Threads.
+
+15. [Video Threads part 2 (Demo)](https://www.youtube.com/watch?v=D2EZaFoNNZM&list=PLwaskZn3rUGs-qFoOrMM3cfvH57giC0MJ&index=5)<br>
+Video penjelasan lanjutan tentang materi Threads.
+
+16. [Video Synchronzation part 1 (Theory)](https://www.youtube.com/watch?v=2yocuGca5As&list=PLwaskZn3rUGs-qFoOrMM3cfvH57giC0MJ&index=4)<br>
+Video penjelasan teori tentang Materi Synchronzation.
+
+17. [Video Synchronzation part 2 (Demo)](https://www.youtube.com/watch?v=l5s8JxZIrOM&list=PLwaskZn3rUGs-qFoOrMM3cfvH57giC0MJ&index=7)<br>
+Video penjelasan lanjutan tentang Materi Synchronzation.
+
+18. [Video Semaphore](https://www.youtube.com/watch?v=Nxi-Zlbq4x8&list=PLwaskZn3rUGs-qFoOrMM3cfvH57giC0MJ&index=6)<br>
+Video penjelasan tentang materi Semaphore.
